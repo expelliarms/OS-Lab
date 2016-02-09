@@ -1,0 +1,13 @@
+clear
+history
+pwd
+history
+ls
+pwd
+help
+man
+pwd
+ls
+ls
+ls -l
+exit
