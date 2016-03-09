@@ -1,0 +1,20 @@
+Process P0
+ Waiting Time(microsec): 1000
+Turnaround Time (s): 31 Response Time(microsec): 1
+
+Process P1
+ Waiting Time(microsec): 942
+Turnaround Time (s): 31 Response Time(microsec): 1
+
+Process P2
+ Waiting Time(microsec): 488
+Turnaround Time (s): 90 Response Time(microsec): 0
+
+Process P3
+ Waiting Time(microsec): 278
+Turnaround Time (s): 90 Response Time(microsec): 1
+
+Average
+ Avg Waiting Time(microsec): 677
+Turnaround Time (s): 60
+Response Time(microsec): 0
